@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KiemtraFE\\PhamTuanPhong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5F3FC-47F6-47D2-B009-03B61A03E8C4}|PhamTuanPhong\\PhamTuanPhong.csproj|e:\\kiemtrafe\\phamtuanphong\\phamtuanphong\\views\\home\\kiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69F5F3FC-47F6-47D2-B009-03B61A03E8C4}|PhamTuanPhong\\PhamTuanPhong.csproj|solutionrelative:phamtuanphong\\views\\home\\kiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F5F3FC-47F6-47D2-B009-03B61A03E8C4}|PhamTuanPhong\\PhamTuanPhong.csproj|e:\\kiemtrafe\\phamtuanphong\\phamtuanphong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F5F3FC-47F6-47D2-B009-03B61A03E8C4}|PhamTuanPhong\\PhamTuanPhong.csproj|solutionrelative:phamtuanphong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KiemTra.cshtml",
+              "DocumentMoniker": "E:\\KiemtraFE\\PhamTuanPhong\\PhamTuanPhong\\Views\\Home\\KiemTra.cshtml",
+              "RelativeDocumentMoniker": "PhamTuanPhong\\Views\\Home\\KiemTra.cshtml",
+              "ToolTip": "E:\\KiemtraFE\\PhamTuanPhong\\PhamTuanPhong\\Views\\Home\\KiemTra.cshtml*",
+              "RelativeToolTip": "PhamTuanPhong\\Views\\Home\\KiemTra.cshtml*",
+              "ViewState": "AgIAAGoEAAAAAAAAAAAowIwEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T02:28:37.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\KiemtraFE\\PhamTuanPhong\\PhamTuanPhong\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhamTuanPhong\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\KiemtraFE\\PhamTuanPhong\\PhamTuanPhong\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhamTuanPhong\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:28:06.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
